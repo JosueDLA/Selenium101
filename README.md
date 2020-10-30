@@ -31,6 +31,14 @@ You can download the Google Chrome Selenium driver [here](https://chromedriver.c
 - Test Runner
 - Test Report
 
+#### Assert 
+
+Assert is a method that allows us to validate an expected value in a test execution. If the assert is true the test continues, if it fails the test ends.
+
+#### Test suites
+
+Test suites are a unified collection of tests in a single test, allowing group and individual results.
+
 ### Selenium Selectors
 
 - ID
