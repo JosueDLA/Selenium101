@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Google Chrome driver
+chromedriver.exe
+
+# Secrets file
+secrets.py
+
+# Generated html files
+*.html
+
+# Report Directory
+reports
