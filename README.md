@@ -30,3 +30,14 @@ You can download the Google Chrome Selenium driver [here](https://chromedriver.c
 - Test Suite
 - Test Runner
 - Test Report
+
+### Selenium Selectors
+
+- ID
+- Atribute name
+- Class name
+- Tag name
+- XPath
+- CSS selector
+- Link text
+- Partial link text
